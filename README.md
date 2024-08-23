@@ -1,2 +1,2 @@
 # projectidx
-test using https://idx.google.com/
+java project https://idx.google.com/
